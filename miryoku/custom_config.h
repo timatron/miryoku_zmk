@@ -32,21 +32,21 @@ XXX  K20  K21  K22  K23  K24  XXX  XXX       XXX  XXX  K25  K26  K27  K28  K29  
 #define MIRYOKU_KLUDGE_THUMBCOMBOS_LEFT 43 44
 #define MIRYOKU_KLUDGE_THUMBCOMBOS_RIGHT 45 46
 
-#define MIRYOKU_LAYER_LIST \
-MIRYOKU_X(BASE,   "Base") \
-MIRYOKU_X(EXTRA,  "Extra") \
-MIRYOKU_X(TAP,    "Tap") \
-MIRYOKU_X(BUTTON, "Button") \
-MIRYOKU_X(NAV,    "Nav") \
-MIRYOKU_X(MEDIA,  "Media") \
-MIRYOKU_X(NUM,    "Num") \
-MIRYOKU_X(SYM,    "Sym")
+// #define MIRYOKU_LAYER_LIST \
+// MIRYOKU_X(BASE,   "Base") \
+// MIRYOKU_X(EXTRA,  "Extra") \
+// MIRYOKU_X(TAP,    "Tap") \
+// MIRYOKU_X(BUTTON, "Button") \
+// MIRYOKU_X(NAV,    "Nav") \
+// MIRYOKU_X(MEDIA,  "Media") \
+// MIRYOKU_X(NUM,    "Num") \
+// MIRYOKU_X(SYM,    "Sym")
 
-#define U_BASE   0
-#define U_EXTRA  1
-#define U_TAP    2
-#define U_BUTTON 3
-#define U_NAV    4
-#define U_MEDIA  5
-#define U_NUM    6
-#define U_SYM    7
+// #define U_BASE   0
+// #define U_EXTRA  1
+// #define U_TAP    2
+// #define U_BUTTON 3
+// #define U_NAV    4
+// #define U_MEDIA  5
+// #define U_NUM    6
+// #define U_SYM    7
