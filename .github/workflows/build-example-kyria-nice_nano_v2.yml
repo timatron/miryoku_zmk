@@ -10,3 +10,4 @@ jobs:
     with:
       board: '["nice_nano_v2"]'
       shield: '["kyria_rev2_left","kyria_rev2_right"]'
+      kconfig: '["CONFIG_BT_CTLR_TX_PWR_PLUS_8=y"]'
